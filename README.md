@@ -1,2 +1,2 @@
 # bulbapedia-web-scraper
- Python Bulbapedia Web Scraping Algorithm
+Python Bulbapedia Web Scraping Algorithm
